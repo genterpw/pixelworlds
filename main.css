@@ -51,12 +51,12 @@ footer {
   font-size: 20px;
 }
 .jake {
-  width: 100%;
+  width: 80%;
 }
 .s {
   position absolute;
   top: 50%;
-  left: 50%
+  left: 50%;
 }
 @media screen and (max-width: 960px) {
   .gallery {
